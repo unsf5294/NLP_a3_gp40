@@ -1,0 +1,5 @@
+data/evidence.json
+data/evidence.faiss
+data/dev-evidence.json
+data/doc_ids.json
+data/evidence.md
