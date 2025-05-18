@@ -3,3 +3,6 @@ data/evidence.faiss
 data/dev-evidence.json
 data/doc_ids.json
 data/evidence.md
+data/LSTM_model.keras
+*.json
+src/FAISS_llm_retriever.ipynb
